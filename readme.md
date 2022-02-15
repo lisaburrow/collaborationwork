@@ -3,5 +3,6 @@
 
 Making a change to commit
 
-Disconnected from vpn
+another line in the readme
+yet another line in the readme
 
